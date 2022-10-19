@@ -823,7 +823,7 @@ const Home: NextPage = () => {
                   </svg>
                 </a>
                 <p className="mt-30 text-lg color-palette-1 mb-30">
-                  StoreGG membantu gamers
+                  VouGame membantu gamers
                   <br /> untuk menjadi pemenang sejati
                 </p>
                 <p className="mt-30 text-lg color-palette-1 mb-30">
