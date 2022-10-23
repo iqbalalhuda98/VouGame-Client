@@ -11,7 +11,8 @@ Web Client/Frontend untuk Project Website Jual Beli Voucher Game secara Online.
 
 ## Teknologi
 - [Typescript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/), Menggunakan Framework [Next.js](https://nextjs.org/)
+- [Storybook](https://storybook.js.org/)
 
 ## Cara Install dan Setup
 
