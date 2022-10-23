@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">VouGame-Client</h2>
 
-## Getting Started
+Web Client/Frontend untuk Project Website Jual Beli Voucher Game secara Online.
 
-First, run the development server:
+## Daftar Isi
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [Teknologi](#teknologi)
+- [Cara Install dan Setup](#cara-install-dan-setup)
+- [Repo Web Server atau Backend](#)
+- [Lisensi](#lisensi)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Teknologi
+- [Typescript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Cara Install dan Setup
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Clone atau Download repository ini. 
+Dibutuhkan `node` dan `npm` yang telah terinstall secara global pada komputer atau laptop anda.  
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Install:
 
-## Learn More
+`npm install`  
 
-To learn more about Next.js, take a look at the following resources:
+Untuk menjalankan website:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`npm run dev`  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Untuk mengunjugi website:
 
-## Deploy on Vercel
+`localhost:3000/`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Repo Web Server atau Backend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Work In Progress
+
+## Lisensi
+
+MIT
